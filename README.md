@@ -44,7 +44,7 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 4. В терминале в папке с проектом запустить npm `npm i`
 5. В терминале в папке с проектом запустить npm `npx cypress open`
 6. Выбрать в Cypress UI E2E тестирование и браузер Google Chrome
-7. Выбрать спеку lesson_locators
+7. Выбрать спеку login.cy.js
 
 ## Автор
 
